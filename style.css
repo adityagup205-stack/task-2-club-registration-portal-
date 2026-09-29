@@ -1,0 +1,96 @@
+h1{
+    text-align: center;
+    text-decoration: solid;
+    margin: bottom 5px;
+}
+.centre-title{
+    text-align: center;
+    margin-top: -10px;
+}
+h3{
+    text-align: center;
+}
+
+
+h3{
+border-bottom: 1px solid;
+padding-bottom: 25px;
+}
+h3 {
+    text-align: center;
+}
+
+h3 span {
+    margin: 0 15px;
+}
+.clubs-title{
+    text-align: left;
+    margin-left: 0px;
+}
+
+table{
+    margin: 0 auto;
+    width: 90%;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #1f2937;
+
+    background-image:
+        linear-gradient(rgba(240, 248, 255, 0.88), rgba(240, 248, 255, 0.88)),
+        url("uit rgpv image.png");
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1 {
+    color: #0f2747;
+    text-align: center;
+    font-size: 36px;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+}
+h2 {
+    color: #0f4c5c;
+    border-left: 5px solid #f4b942;
+    padding-left: 10px;
+    margin-top: 25px;
+}
+h3{
+    color: #0f4c5c;
+}
+.club-rules {
+    background: rgba(255, 255, 255, 0.94);
+    padding: 20px;
+    margin: 25px auto;
+    width: 85%;
+    border-left: 5px solid #f4b942;
+    border-radius: 8px;
+}
+button {
+    background-color: #0f4c5c;
+    color: white;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2a9d8f;
+}
+form {
+    background: rgba(255, 255, 255, 0.94);
+    padding: 25px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+
